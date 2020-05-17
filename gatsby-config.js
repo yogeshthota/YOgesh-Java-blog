@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Yogesh Java Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name:'Yogesh',
+      summary: `who lives in Banglore, for now in Ragimanupenta.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://yogesh-java-blog.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      //twitter: `kylemathews`,
     },
   },
   plugins: [
