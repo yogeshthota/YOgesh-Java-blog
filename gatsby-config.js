@@ -8,7 +8,7 @@ module.exports = {
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://yogesh-java-blog.netlify.app/`,
     social: {
-      //twitter: `kylemathews`,
+      twitter: `kylemathews`,
     },
   },
   plugins: [
